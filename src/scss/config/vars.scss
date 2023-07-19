@@ -1,0 +1,14 @@
+$mainFont: 'Inter'; // !указать здесь основное семейство шрифта
+$mainWeight: 400; // !указать здесь основное начертание шрифта
+
+
+$whiteColor: #fff;
+$blackColor: #131313;
+
+$firstAccentColor: #454545;
+$secondAccentColor: #80AA75;
+
+$fontFamily: $mainFont, sans-serif; // Семейство шрифта по умолчанию
+$fontColor: #454545; // Цвет шрифта по умолчанию
+$fontSize: rem(24); // Размер шрифта по умолчанию
+$fontWeight: $mainWeight; // Жирность шрифта по умолчанию
